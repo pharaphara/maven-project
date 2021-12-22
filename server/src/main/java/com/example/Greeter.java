@@ -12,7 +12,9 @@ public class Greeter {
 
   }
 
-
+/**
+   * This is a method.
+   */
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
